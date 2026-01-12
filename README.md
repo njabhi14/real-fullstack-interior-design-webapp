@@ -4,7 +4,7 @@
 
 ## Visit the Website
 
-🌐 To visit the Interia website, click [Here](https://https://github.com/njabhi14/real-fullstack-interior-design-webapp/tree/main).
+🌐 To visit the Interia website, click [Here](https://https://github.io/njabhi14/real-fullstack-interior-design-webapp/tree/main).
 
 ## File Structure
 
